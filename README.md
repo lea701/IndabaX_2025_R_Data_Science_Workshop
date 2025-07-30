@@ -8,7 +8,7 @@ This beginner-friendly, hands-on session is designed to help students, early-car
 ---
 ## 🚀 Workshop Overview
 
-- **📅 Date:** Thursday, 31 July 2025  
+- **📅 Date:** Thursday, 30 July 2025  
 - **📍 Venue:** Botho University  
 - **⏱ Duration:** 2 hours  
 - **👥 Audience:** Beginners and intermediate learners in data science  
